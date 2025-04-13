@@ -79,17 +79,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidikr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidikr&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidikr" alt="GitHub Streak Stats" />
-</p>
 
-### Github Statistic
 <p align="left">
 <a href="https://github.com/SidikR">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SidikR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
